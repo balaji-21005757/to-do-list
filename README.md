@@ -1,6 +1,8 @@
-# to-do-list
-# Aim :
+# Experiment-5
 Develop a complete Todo application with all features
+# Aim:
+To develop a complete Todo application with all features.
+
 # Algorithm:
 1.Start React project,using "create-react-app projectName".
 
@@ -11,7 +13,10 @@ Develop a complete Todo application with all features
 4.Edit the components in the folder,for the project.
 
 5.Edit App.js and enter the HTML code in the return and render.
-# Output :
-![image](https://github.com/balaji-21005757/to-do-list/assets/94372294/3107df3f-a835-4f04-a7af-2acb8b8bb2dd)
+
+# Output:
+![image](https://github.com/SOMEASVAR/TO-DO/assets/93434149/7a7c4504-50f4-4975-8bcf-9778faf561d8)
+
 # Result:
 Therefore we have succesfully developed a complete Todo application with all features.
+
